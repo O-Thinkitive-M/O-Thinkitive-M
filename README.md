@@ -10,6 +10,11 @@ My focus is not simply generating code faster—it's delivering scalable systems
 
 ---
 
+## 📊 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,bitbucket,bootstrap,css,docker,eclipse,figma,firebase,github,gmail,hibernate,html,ai,java,js,linkedin,linux,md,maven,mongodb,mysql,nginx,npm,pnpm,postgres,postman,rabbitmq,react,redis,redux,regex,spring,stackoverflow,tailwind,threejs,ubuntu,vite,vitest,vscode,windows,,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
 ### ⚡ What I Build
 
 🔹 Enterprise Spring Boot Microservices
@@ -118,9 +123,3 @@ Collaboration & Delivery
 ### 🎯 Current Focus
 
 Building the next generation of AI-assisted enterprise applications where software architecture, cloud scalability, and Generative AI work together to accelerate business outcomes.
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=O-Thinkitive-M&show_icons=true)
-
-[![My Skills](https://skillicons.dev/icons?i=angular,aws,bitbucket,bootstrap,css,docker,eclipse,figma,firebase,github,gmail,hibernate,html,ai,java,js,linkedin,linux,md,maven,mongodb,mysql,nginx,npm,pnpm,postgres,postman,rabbitmq,react,redis,redux,regex,spring,stackoverflow,tailwind,threejs,ubuntu,vite,vitest,vscode,windows,,nodejs,figma&theme=light)](https://skillicons.dev)
