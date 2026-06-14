@@ -123,4 +123,4 @@ Building the next generation of AI-assisted enterprise applications where softwa
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=O-Thinkitive-M&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=O-Thinkitive-M&layout=compact)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,bitbucket,bootstrap,css,docker,eclipse,figma,firebase,github,gmail,hibernate,html,ai,java,js,linkedin,linux,md,maven,mongodb,mysql,nginx,npm,pnpm,postgres,postman,rabbitmq,react,redis,redux,regex,spring,stackoverflow,tailwind,threejs,ubuntu,vite,vitest,vscode,windows,,nodejs,figma&theme=light)](https://skillicons.dev)
