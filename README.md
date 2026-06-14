@@ -12,7 +12,7 @@ My focus is not simply generating code faster—it's delivering scalable systems
 
 ## 📊 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=angular,aws,bitbucket,bootstrap,css,docker,eclipse,figma,firebase,github,gmail,hibernate,html,ai,java,js,linkedin,linux,md,maven,mongodb,mysql,nginx,npm,pnpm,postgres,postman,rabbitmq,react,redis,redux,regex,spring,stackoverflow,tailwind,threejs,ubuntu,vite,vitest,vscode,windows,,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,aws,bitbucket,bootstrap,css,docker,eclipse,figma,firebase,github,gmail,hibernate,html,ai,java,js,linkedin,linux,md,maven,mongodb,mysql,nginx,npm,pnpm,postgres,postman,rabbitmq,react,redis,redux,regex,spring,stackoverflow,tailwind,threejs,ubuntu,vite,vitest,vscode,windows,nodejs,figma&theme=light)](https://skillicons.dev)
 
 
 ### ⚡ What I Build
