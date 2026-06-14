@@ -81,48 +81,6 @@ I use AI to accelerate implementation while applying software engineering princi
 
 ---
 
-### 🏗️ Core Technical Expertise
-
-Backend Architecture
-
-* Java
-* Spring Boot
-* Spring Cloud
-* Microservices
-* REST APIs
-* Security & Authentication
-
-Frontend Systems
-
-* Angular
-* React
-* TypeScript
-* Modern UI Architecture
-
-Data & Storage
-
-* MySQL
-* PostgreSQL
-* Database Design
-* Query Optimization
-
-Cloud & DevOps
-
-* AWS
-* Docker
-* GitHub Actions
-* CI/CD Pipelines
-
-Collaboration & Delivery
-
-* GitHub
-* Bitbucket
-* Confluence
-* Figma
-* Agile Development
-
----
-
 ### 🎯 Current Focus
 
 Building the next generation of AI-assisted enterprise applications where software architecture, cloud scalability, and Generative AI work together to accelerate business outcomes.
