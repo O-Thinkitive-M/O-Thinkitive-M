@@ -9,6 +9,9 @@ Leveraging tools such as Claude Code, Cursor, Windsurf, and advanced LLM framewo
 My focus is not simply generating code faster—it's delivering scalable systems, clean architecture, and business value at high velocity.
 
 ---
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=O-Thinkitive-M)
 
 ## 📊 Skills
 
